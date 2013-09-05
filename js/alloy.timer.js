@@ -42,7 +42,7 @@ Jx().$package(function(J){
 		currentTaskEl = $D.id("currentTask");
 	
 	text = i18n.text = {
-		siteTitle : "Alloy Timer 之番茄工作法",
+		siteTitle : "番茄工作法",
 		pleaseStart: "请输入任务...",
 		restTask: "休息，休息一下^_^",
 		needNum: "请输入正确的分钟数",
