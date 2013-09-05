@@ -1,9 +1,3 @@
-AlloyTimer
-==========
-番茄工作法的时间管理应用
-
-By [AlloyTeam](http://www.AlloyTeam.com/)
-
 
 ### 番茄工作方法
 
